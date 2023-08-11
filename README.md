@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gülcan Bal</h1>
 <h3 align="center">A computer science student</h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glcan22&label=Profile%20views&color=0e75b6&style=flat" alt="glcan22" /> </p>
 
 - 🌱 I’m currently learning *Python and Machine Learning*
