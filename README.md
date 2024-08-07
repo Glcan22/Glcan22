@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glcan22&label=Profile%20views&color=0e75b6&style=flat" alt="glcan22" /> </p>
 
-- 🌱 I’m currently learning *Python and Machine Learning*
+- 🌱 I’m currently trying to be Full-Stack Java developer.
 
 - 📫 How to reach me *gulcanbal098@gmail.com*
 
